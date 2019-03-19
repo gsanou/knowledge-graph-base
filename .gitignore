@@ -1,5 +1,6 @@
 .ipynb_checkpoints/
 data/
+!src/data
 __pycache__/
 wieghts
 .idea/
