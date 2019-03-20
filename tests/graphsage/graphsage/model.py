@@ -128,3 +128,4 @@ class SupervisedGraphSage(nn.Module):
 
     def get_embeds(self, nodes):
         return self.enc(nodes)
+    
